@@ -1,4 +1,0 @@
-F:\Google Drive\VisualStudio\Minesweeper\Debug\Minesweeper.exe
-F:\Google Drive\VisualStudio\Minesweeper\Debug\Minesweeper.pdb
-D:\Google Drive\VisualStudio\Minesweeper\Debug\Minesweeper.exe
-D:\Google Drive\VisualStudio\Minesweeper\Debug\Minesweeper.pdb
