@@ -1,0 +1,6 @@
+﻿  Menu.cpp
+F:\Google Drive\VisualStudio (C++)\Minesweeper\Menu.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Minesweeper.cpp
+F:\Google Drive\VisualStudio (C++)\Minesweeper\Minesweeper.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Source.cpp
+F:\Google Drive\VisualStudio (C++)\Minesweeper\Minesweeper.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
